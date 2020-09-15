@@ -1,0 +1,21 @@
+.counter-class{
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.counter-function{
+  text-align: center;
+  background-color: salmon;
+}
+
+#counter-class-h1{
+  color: salmon;
+}
+
+#counter-function-h1{
+  color: aquamarine;
+}
+
+h3{
+  margin: auto 1em auto 1em;
+}
